@@ -6,6 +6,6 @@ Package.describe({
 
 Package.onUse(function(api) {
   api.versionsFrom('METEOR@0.9.2');
-  api.use('kestanous:herald@0.7.0')
+  api.use(['kestanous:herald@0.7.0', 'underscore'])
   api.addFiles('lib/web-notifications.js');
 });

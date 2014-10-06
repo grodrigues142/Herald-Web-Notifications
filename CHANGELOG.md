@@ -1,4 +1,7 @@
 `Last updated: 2014-10-06`
 
-## v0.1.0
-  * hello world
+## v0.1.2
+  * bump heralds version
+
+## v0.1.1
+  * fixed typo in medium name, `webNotification` not `webNotifications`

@@ -1,7 +1,7 @@
 Package.describe({
-  summary: " \* Fill me in! *\ ",
-  version: "0.1.2",
-  git: " \* Fill me in! *\ "
+  summary: " Add Web Notifications medium to Herald",
+  version: "0.1.3",
+  git: "https://github.com/Meteor-Reaction/Herald-Web-Notifications.git"
 });
 
 Package.onUse(function(api) {

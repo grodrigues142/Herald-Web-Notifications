@@ -1,5 +1,6 @@
 Herald-Web-Notifications
 ========================
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/Meteor-Reaction/Herald-Web-Notifications?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 Add Web Notifications to Herald for Meteor JS.
 

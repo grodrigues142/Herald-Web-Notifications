@@ -1,4 +1,5 @@
-`Last updated: 2014-10-06`
+## v0.1.4
+  * use stable herald@1.0.0
 
 ## v0.1.3
   * packages description added

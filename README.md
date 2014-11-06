@@ -1,7 +1,13 @@
 Herald-Web-Notifications
 ========================
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/Meteor-Reaction/Herald-Web-Notifications?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 Add Web Notifications to Herald for Meteor JS.
+
+## Usage
+Added this package with `$ meteor add kestanous:herald-web-notifications`. This package will automatically add `kestanous:herald` if you do not already have it. 
+
+Full Herald documentation can be [found here](https://github.com/Meteor-Reaction/Herald). The following readme shows how to add web-notification to your couriers.
 
 ## [Experimental Technology](https://developer.mozilla.org/en-US/docs/Web/API/Notification#Browser_compatibility)
 

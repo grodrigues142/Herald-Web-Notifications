@@ -1,6 +1,6 @@
 Package.describe({
   summary: " Add Web Notifications medium to Herald",
-  version: "0.2.0",
+  version: "0.3.0",
   git: "https://github.com/Meteor-Reaction/Herald-Web-Notifications.git"
 });
 

@@ -1,3 +1,6 @@
+## v0.3.1
+  * fix for iron:router
+
 ## v0.3.0
   * added onclick with default functionality
   * title property now accepts functions, my bad

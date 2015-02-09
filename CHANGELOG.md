@@ -1,3 +1,7 @@
+
+## v0.4.0
+  * use Herald v1.2.0
+
 ## v0.3.1
   * fix for iron:router
 
@@ -6,7 +10,7 @@
   * title property now accepts functions, my bad
 
 ## v0.2.0
-  * use stable herald@1.0.0
+  * use Herald v1.0.0
 
 ## v0.1.3
   * packages description added
